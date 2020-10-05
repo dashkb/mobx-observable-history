@@ -27,8 +27,8 @@
   ],
   "dependencies": {
     "@types/history": "^4.7.3",
-    "history": "^4.10.1",
-    "mobx": "^5.15.4"
+    "history": "^4",
+    "mobx": "^6"
   },
   "devDependencies": {
     "@types/jest": "^25.2.1",
